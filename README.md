@@ -14,7 +14,7 @@ Download emojART now and share your first emoji art with your loved ones!
   
 <a href='https://play.google.com/store/apps/details?id=com.navonapps.emojart&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' height='83' /></a> 
 
-Or visit us on [our Facebook page](https://www.facebook.com/Emojart-100225549508331)
+Please also visit us on [our Facebook page](https://www.facebook.com/Emojart-100225549508331)
 
 
 ---
