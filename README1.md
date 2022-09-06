@@ -1,4 +1,4 @@
-![banner](images/banner6.png )
+![banner](images/banner6wide.png )
 
 # emojART ![icon](images/icon_full.png)
 
